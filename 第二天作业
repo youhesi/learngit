@@ -6,14 +6,22 @@
   <meta name="description" content="" />
   <title>简历</title>
 </head>
+<style>
+  h1{text-align:center;}
+  *{
+  margin:0;
+  padding:0;
+  }
+  span{
+  font:bold 20px 楷体;
+  }
+</style>
 <body>
-  <p>简历</p>
+  <h1>个人简历</h1>
   <ul>
-    <li>姓名：XXX</li>
-    <li>性别：男</li>
-    <li>爱好：Java web前端</li>
-    <li>个人经历：</li>
-	<input type="text" width=“200px” height="200px" />
-  </ul>
+    <li><span>姓名：</span>XXX</li>
+    <li><span>性别：</span>男</li>
+    <li><span>联系方式：</span>12364233</li>
+    <li><span>教育背景：</span></li>
+  <ul>
 </body>
-</html>
