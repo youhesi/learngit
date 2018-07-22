@@ -13,6 +13,7 @@
   padding:0;
   }
   span{
+  color:orange;
   font:bold 20px 楷体;
   }
 </style>
