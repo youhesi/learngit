@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="keywords" content="" />
+  <meta name="description" content="" />
+  <title>简历</title>
+</head>
+<body>
+  <p>简历</p>
+  <ul>
+    <li>姓名：XXX</li>
+    <li>性别：男</li>
+    <li>爱好：Java web前端</li>
+    <li>个人经历：</li>
+	<input type="text" width=“200px” height="200px" />
+  </ul>
+</body>
+</html>
