@@ -1,0 +1,42 @@
+*{
+	padding:0;
+	margin:0;
+}
+p,h1{
+	font:bold 20px 楷体;
+	color:white;
+	line-height:100px;
+}
+span{
+	font:bold 20px 宋体;
+}
+li{
+	display:inline;
+	padding-right:50px;
+}
+.ul2 li{
+	display:block;
+}
+#left{
+	width:1000px;
+	height:100px;
+	background-color:#858585;
+}
+
+	
+ul{
+	width:1000px;
+	height:100px;
+	float:left;
+	margin-bottom:1px;
+}
+p{  
+	width:100px;
+	height:100px;
+	float:left;
+	overflow:hidden;
+	background-color:#D6D6D6;
+	color:black;
+	text-align:center;
+	
+}
